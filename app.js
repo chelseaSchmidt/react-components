@@ -1,8 +1,8 @@
 // TODO
 let GroceryList = () => ( /*Why does this use a paren instead of a curly brace*/
   <ul>
-    <li>Coffee</li>
-    <li>Tea</li>
+    <Coffee />
+    <Tea />
   </ul>
 );
 
